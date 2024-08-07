@@ -18,14 +18,15 @@ Models ->Models overview => GPT-4 Turbo and GPT-4
 
 ![image](https://github.com/user-attachments/assets/a4c9e388-cd27-4359-920d-a3579916252b)
 
-نحمل بايثون
-![image](https://github.com/user-attachments/assets/32600aff-4463-4c00-a035-40fc84a19488)
-
-
 ![image](https://github.com/user-attachments/assets/33d5db90-66a3-4aed-a742-e03302294e80)
 
 Libraries
 ![image](https://github.com/user-attachments/assets/22ba1025-bf71-4fb2-96c9-2d18f208fdb6)
 ![image](https://github.com/user-attachments/assets/98e54330-d763-4a0d-a798-0f63ce5dc7fe)
+
+===============================================================
+نحمل بايثون
+![image](https://github.com/user-attachments/assets/0882253f-6177-45a6-a4d4-214083dfe176)
+
 
 
