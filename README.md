@@ -18,6 +18,9 @@ Models ->Models overview => GPT-4 Turbo and GPT-4
 
 ![image](https://github.com/user-attachments/assets/a4c9e388-cd27-4359-920d-a3579916252b)
 
+نحمل بايثون
+![image](https://github.com/user-attachments/assets/32600aff-4463-4c00-a035-40fc84a19488)
+
 
 ![image](https://github.com/user-attachments/assets/33d5db90-66a3-4aed-a742-e03302294e80)
 
